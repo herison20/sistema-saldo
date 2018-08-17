@@ -120,7 +120,7 @@ return [
             'submenu' => [
                 [
                     'text' => 'Saldo',
-                    'url' => 'balance',
+                    'url' => 'admin/balance',
                     'icon' => 'credit-card-alt'
                 ],
                 [
